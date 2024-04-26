@@ -6,5 +6,5 @@
 
 با تغییر کد MyStepdefs که اعداد منفی را نیز به عنوان ورودی قبول کند مشکل این سناریو‌ را برطرف می‌کنیم.
 
-<!--![screenshots/Result1.png]-->
 ![img.png](screenshots/Result1.png)
+![img.png](screenshots/Result2.png)
