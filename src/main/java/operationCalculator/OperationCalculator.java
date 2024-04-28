@@ -1,17 +1,17 @@
-package calculator;
+package operationCalculator;
 
-public class OperationalCalculator {
-    public float applyOperator(int a, int b, String operator) {
+public class OperationCalculator {
+    public float applyOperator(int a, int b, char operator) {
         switch (operator) {
-            case "^":
-                return power(a, b);
-            case "/":
+            case '*':
+                return a * b;
+            case '/':
                 if (b == 0) {
                     throw new IllegalArgumentException("Cannot divide by zero");
                 }
                 return (float) a / b;
-            case "*":
-                return a * b;
+            case '^':
+                return power(a, b);
             default:
                 throw new IllegalArgumentException("Invalid operator");
         }
