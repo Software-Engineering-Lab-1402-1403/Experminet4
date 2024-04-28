@@ -8,3 +8,7 @@
 
 ![img.png](screenshots/Result1.png)
 ![img.png](screenshots/Result2.png)
+
+در عکس زیر نتیجه نهایی پاس شدن تست‌های اولیه پس از اضافه کردن منطق کد‌ها نمایش داده شده است.
+
+![img.png](screenshots/Result3.png)
